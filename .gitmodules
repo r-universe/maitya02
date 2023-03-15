@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "horseshoenlm"]
+	path = horseshoenlm
+	url = https://github.com/maitya02/horseshoenlm
+	shallow = true
+	registered = true
+[submodule "PanCanVarSel"]
+	path = PanCanVarSel
+	url = https://github.com/maitya02/pancanvarsel
+	shallow = true
+	registered = true
+[submodule "semmcmc"]
+	path = semmcmc
+	url = https://github.com/maitya02/semmcmc
+	shallow = true
+	registered = true

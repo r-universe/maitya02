@@ -1,0 +1,26 @@
+[
+  {
+    "package": "horseshoenlm",
+    "oncran": true
+  },
+  {
+    "package": "horseshoenlm",
+    "oncran": true
+  },
+  {
+    "package": "PanCanVarSel",
+    "oncran": true
+  },
+  {
+    "package": "PanCanVarSel",
+    "oncran": true
+  },
+  {
+    "package": "semmcmc",
+    "oncran": true
+  },
+  {
+    "package": "semmcmc",
+    "oncran": true
+  }
+]
