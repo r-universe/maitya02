@@ -2,15 +2,15 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "PanCanVarSel"]
+	path = PanCanVarSel
+	url = https://github.com/maitya02/pancanvarsel
 [submodule "brlrmr"]
 	path = brlrmr
 	url = https://github.com/cran/brlrmr
 [submodule "horseshoenlm"]
 	path = horseshoenlm
 	url = https://github.com/maitya02/horseshoenlm
-[submodule "PanCanVarSel"]
-	path = PanCanVarSel
-	url = https://github.com/maitya02/pancanvarsel
 [submodule "sahpm"]
 	path = sahpm
 	url = https://github.com/cran/sahpm
